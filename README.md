@@ -8,3 +8,7 @@
 2. Think of another problem on your own. Create another flow chart for it as well.
 
 Once you've created the flow charts, add them to this `README` and push the changes.
+
+
+![](/htgtBerlinfKarlsruhe.png)
+![](/OrderingFood.png)
